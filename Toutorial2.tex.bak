@@ -1,0 +1,19 @@
+\documentclass[a4paper,12pt]{article}
+\begin{document}
+Hello world
+
+subscript:
+
+${a_{512}}_{256}$
+
+$ \pi $
+
+$ \sin(20) $
+
+$\alpha $
+
+$Log_7{651}$
+
+$\sqrt[3]{8934783947}$
+
+\end{document}
